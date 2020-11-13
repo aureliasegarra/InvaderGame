@@ -1,0 +1,117 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    flex-direction: column;
+    background-color: #5757ee;
+    display: flex;
+}
+
+.configuration {
+    min-height: 150px;
+    background-color: #3e3eaf;
+}
+
+#invader {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pixelLine {
+    display: flex;
+}
+
+.pixel {
+    background-color: #e6e6e6;
+    width:30px;
+    height:30px;
+    border: 1px solid #3D3D3D;
+}
+
+
+.configuration {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.gridSizeInput {
+    padding: 1.2em;
+    border: 0;
+    width: 110px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.pixelSizeInput {
+    padding: 1.2em;
+    border: 0;
+    width: 110px;
+    border-left: 1px solid #DEDEDE;
+}
+
+.validateFormBtn {
+    padding: 1.2em;
+    background-color: #b757ee;
+    border: 0;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: white;
+}
+
+#colorpicker {
+    position: fixed;
+    background-color: rgba(0,0,0,0.2);
+    right: 0;
+    bottom: 0;
+    display: flex;
+    min-width: 200px;
+    min-height: 30px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.colorpicker_circle {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #3D3D3D;
+    border-radius: 50%;
+    margin: 0 2px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.colorpicker_circle:hover {
+    transform: scale(1.1);
+}
+.colorpicker_circle.color--selected {
+    transform: scale(1.3);
+    margin: 0 4px;
+}
+
+.color--white {
+    background-color: #e6e6e6;
+}
+
+.color--black {
+    background-color: #3D3D3D;
+}
+
+.color--red {
+    background-color: #d14040;
+}
+
+.color--green {
+    background-color: #319628;
+}
+
+.color--blue {
+    background-color: #407ad1;
+}
+
+.color--fof {
+    background-color: #FF00FF;
+}
