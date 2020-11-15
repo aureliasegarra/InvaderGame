@@ -13,8 +13,9 @@ Famous game to play with Javascript. Here, you can create an avatar in pixels. S
 - Work in progress
 
 ## Project
-Projet realised during my programming study in O'clock.
+Projet realised during my programming study in O'clock. 
 
 ### Purpose
+- Design a JavaScript application to reproduce a famous game
 - Play with CSS
 - Work with function, DOM's elements and eventListener, loop and form.
