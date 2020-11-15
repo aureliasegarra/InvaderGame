@@ -1,6 +1,10 @@
 # InvaderGame
 Famous game to play with Javascript. Here, you can create an avatar in pixels. Select the color and click on the box to change the color. 
 
+
+## Illustration
+![Exemple of Alien pixel](img/rendering.png)
+
 ## Language
 - HTML5/CSS3
 - Javascript
