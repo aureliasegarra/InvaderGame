@@ -10,7 +10,7 @@ Famous game to play with Javascript. Here, you can create an avatar in pixels. S
 - Javascript
 
 ## Step
-- Work in progress
+- Work finished.
 
 ## Project
 Projet realised during my programming study in O'clock. 
