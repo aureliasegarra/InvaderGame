@@ -2,7 +2,7 @@ let app = {
     pixelContainer: null,
     colorpickerContainer: null,
     currentColor: 'black',
-    styles: ['white','black','red','green','blue','fof'],
+    styles: ['white','black','purple','green','blue','fof'],
     
     /* Function triggered when clicking on a grid cell */
     handlePixelClick: (event) => {

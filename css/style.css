@@ -16,10 +16,15 @@ body {
 
 .title {
     font-family:'Press Start 2P', sans-serif, arial ;
-    color: #2b2d42;
+    color: #edf6f9;
     font-size: 3em;
     text-align: center;
     padding: 10px;
+}
+
+.alien {
+    vertical-align: baseline;
+    font-size: 70px;
 }
 
 #invader {
@@ -110,7 +115,7 @@ body {
     background-color: #2b2d42;
 }
 
-.color--red {
+.color--purple {
     background-color: #6930C3
     ;
 }
