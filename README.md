@@ -1,5 +1,5 @@
 # InvaderGame
-Famous game to play with Javascript. Here, you can create an avatar in pixels. Select the color and click on the box to change the color. 
+Famous game to play with Javascript. Here, you can create an avatar in pixels. Select the color and click on the box to change the color and create your own.
 
 
 ## Illustration
