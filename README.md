@@ -13,7 +13,7 @@ Famous game to play with Javascript. Here, you can create an avatar in pixels. S
 - Work finished.
 
 ## Project
-Projet realised during my programming study in O'clock. 
+Projet realised during my programming study. 
 
 ### Purpose
 - Design a JavaScript application to reproduce a famous game
